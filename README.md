@@ -5,7 +5,7 @@ I downloaded them in my computer, once i check furbyconnectfiles, nothing showed
 
 The original owner deleted the repository for an unknown reason.
 
-#Mame26Git, How did you find the files?
+# Mame26Git, How did you find the files?
 
 i downloaded them before the deletion, i actually was interested what's here on Furby connects like this repository, FurbyA18.
 
