@@ -1,3 +1,9 @@
+FurbyA18 - Where audio from the DLCs belong
+
+<p align="center">
+	<img src="img/img.png" alt="FurbyA18 Logo" width="50%">
+</p>
+
 # THOSE FILES ARE LOST MEDIA
 I downloaded them in my computer, once i check furbyconnectfiles, nothing showed up, so i did my idea to actually bring this repository back.
 
